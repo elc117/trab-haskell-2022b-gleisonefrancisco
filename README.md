@@ -4,7 +4,7 @@
 ![Haskell](https://user-images.githubusercontent.com/74078237/215369757-32c7f039-ba71-4f8f-9c1b-91135b8e6d83.png)
 
 ## Descrição 
-O código em Haskell gera um arquivo SVG (Scalable Vector Graphics) com círculos de cores aleatórias. O tamanho, a posição e a cor dos círculos são determinados aleatoriamente. A função main cria dois geradores de números aleatórios, um para determinar as cores e outro para determinar a posição e o tamanho. Em seguida, ele gera as strings de círculos e estilos aleatórios, e escreve o resultado em um arquivo chamado "output.svg".
+O código em Haskell gera um arquivo SVG (Scalable Vector Graphics) com círculos de cores aleatórias. O tamanho, a posição e a cor dos círculos são determinados aleatoriamente. A função main cria dois geradores de números aleatórios, um para determinar as cores e outro para determinar a posição e o tamanho. Em seguida, ele gera as strings de círculos e estilos  pseudo-aleatórios, e escreve o resultado em um arquivo chamado "output.svg".
 
 ## O código
 - maxRGB e maxSize: definem o valor máximo das cores (255) e o tamanho dos círculos (300), respectivamente.
