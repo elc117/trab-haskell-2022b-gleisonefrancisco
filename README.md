@@ -69,3 +69,15 @@ A saída possui um padrão definido, uma imagem com fundo preto contendo 5 circu
 
 ### Saída 2:
 ![image](https://user-images.githubusercontent.com/74078237/215368884-63a2e4f9-a93d-440d-b7da-7dc23948618e.png)
+
+# O Time:
+
+Gleison Antonio Pires da Silva
+Francisco Albrecht Ribas
+
+# Referências
+[1] https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc117-2022b/main/praticas/haskell01/README.md#22
+[2] https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc117-2022b/main/trabalhos/haskell/README.md#7
+[3] https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc117-2022b/main/praticas/haskell02/README.md#1
+[4] https://pt.stackoverflow.com/questions/288003/duvida-erro-haskell
+[5] https://www.haskell.org/documentation/
