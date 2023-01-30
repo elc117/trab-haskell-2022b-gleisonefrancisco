@@ -76,8 +76,8 @@ Gleison Antonio Pires da Silva
 Francisco Albrecht Ribas
 
 # Referências
-[1] https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc117-2022b/main/praticas/haskell01/README.md#22
-[2] https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc117-2022b/main/trabalhos/haskell/README.md#7
-[3] https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc117-2022b/main/praticas/haskell02/README.md#1
-[4] https://pt.stackoverflow.com/questions/288003/duvida-erro-haskell
+[1] https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc117-2022b/main/praticas/haskell01/README.md#22 <br>
+[2] https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc117-2022b/main/trabalhos/haskell/README.md#7 <br>
+[3] https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc117-2022b/main/praticas/haskell02/README.md#1 <br>
+[4] https://pt.stackoverflow.com/questions/288003/duvida-erro-haskell <br>
 [5] https://www.haskell.org/documentation/
